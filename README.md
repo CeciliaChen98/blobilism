@@ -5,11 +5,14 @@ This demo implements a simple drawing program based on a circle brush.
 * Supports multiple brush sizes (no smaller than size 1)
 * Supports multiple colors with a pallette (at least three) 
 * Supports transparency
-* Clears the image
+* Clears the image (space)
+* Supports eraser (e)
+* Supports undo a circle (z)
 
 ## Results
 
-TODO: Put images of what you've made here
+![avatar](cat.png)
+
 
 ## How to build
 
